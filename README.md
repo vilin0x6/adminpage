@@ -3,7 +3,7 @@ Adminpage App
 종합 쇼핑몰을 운영하시나요? 책을 관리/판매하는 서비스가 필요하다면 Bookstore App을 이용해보세요!
 
 <br/>
-<img src="./img/mysql_erd.png" width="700px" alt="mysql_erd"></img>
+<img src="./img/mysql_erd.png" width="700px" alt="mysql_erd"/>
 <br/>
 
 📝 About The Project
@@ -19,7 +19,7 @@ MySQL Workbench 툴을 이용해 ERD 설계 및 Table 생성을 진행했습니�
 
 💭 Next Version Preview
 -----------------------------------------
-현재 localhost:8080/pages 링크만 구현한 상태로
+현재 http://localhost:8080/pages 링크만 구현한 상태로
 고객 관리 페이지(localhost:8080/pages/users)는 구현되지 않은 상태입니다.
 다음 버전에서는 고객 관리 페이지에서 회원의 ID, 계정, 상태, e-mail, 전화번호, 가입일, 해지일을
 확인할 수 있도록 수정될 예정입니다.
