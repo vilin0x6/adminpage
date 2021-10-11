@@ -1,6 +1,6 @@
 Adminpage App
 =====================
-종합 쇼핑몰을 운영하시나요? 책을 관리/판매하는 서비스가 필요하다면 Bookstore App을 이용해보세요!
+종합 쇼핑몰을 운영하시나요? 쇼핑몰 관리자 서비스가 필요하다면 Adminpage App을 이용해보세요!
 
 <br/>
 <img src="./img/mysql_erd.png" width="700px" alt="mysql_erd"/>
